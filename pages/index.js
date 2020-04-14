@@ -1,7 +1,14 @@
+import Main from "../components/main";
+
 const Index = () => (
-  <div>
+  <Main>
     <p>Ethan's Site</p>
-  </div>
+    <style jsx global>{`
+      body {
+        margin: 0;
+      }
+    `}</style>
+  </Main>
 );
 
 export default Index;
