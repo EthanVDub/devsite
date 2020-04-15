@@ -9,7 +9,8 @@ const Button = styled.button`
   padding: 0.5em 1em;
   font-size: 1em;
   cursor: pointer;
-
+  max-height: 50px;
+  font-family: Lucida, sans-serif;
   :hover {
     background: #013c63;
     color: white;

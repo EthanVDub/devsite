@@ -1,5 +1,5 @@
 {
-  "name": "devsite",
+  "name": "evdub",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "@emotion/styled": "^10.0.27",
     "emotion-theming": "^10.0.27",
     "next": "^9.3.4",
+    "now": "^18.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0",
