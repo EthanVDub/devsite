@@ -5,6 +5,10 @@ import History from "./workhistory";
 
 const StyledBody = styled.div`
   margin: 0% 20%;
+
+  @media (max-width: 768px) {
+    margin: 0;
+  }
 `;
 
 const Body = () => (

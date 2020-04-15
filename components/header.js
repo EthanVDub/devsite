@@ -24,6 +24,7 @@ const StyledHeader = styled.div`
     display: flex;
     flex-direction: column;
     text-align: center;
+    position: static;
   }
 `;
 
