@@ -1,4 +1,4 @@
-import AboutMain from "../components/aboutmain";
+import AboutMain from "../components/aboutMain";
 
 const About = () => <AboutMain></AboutMain>;
 
